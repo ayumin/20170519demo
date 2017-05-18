@@ -88,6 +88,10 @@
       <artifactId>jscience</artifactId>
       <version>4.3.1</version>
     </dependency>
+    <dependency>
+      <groupid>br.eti.kinoshita</groupid>
+      <artifactid>tap4j</artifactid>
+    </dependency>
   </dependencies>
 
   <build>
